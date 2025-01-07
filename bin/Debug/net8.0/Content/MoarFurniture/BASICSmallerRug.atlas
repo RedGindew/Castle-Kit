@@ -1,0 +1,7 @@
+MoarFurniture.BASICSmallerRugUp MoarFurniture.BASICSmallerRugDown
+loc 0 0 40 23
+piv 28 7
+
+MoarFurniture.BASICSmallerRugLeft MoarFurniture.BASICSmallerRugRight
+loc 0 23 40 23
+piv 12 30

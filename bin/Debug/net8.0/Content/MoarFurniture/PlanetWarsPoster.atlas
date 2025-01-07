@@ -1,0 +1,15 @@
+MoarFurniture.PlanetWarsPosterUp
+loc 0 0 30 41
+piv 14 31
+
+MoarFurniture.PlanetWarsPosterDown
+loc 0 41 30 41
+piv 16 72
+
+MoarFurniture.PlanetWarsPosterRight
+loc 0 82 30 41
+piv 14 113
+
+MoarFurniture.PlanetWarsPosterLeft
+loc 0 123 30 41
+piv 16 154

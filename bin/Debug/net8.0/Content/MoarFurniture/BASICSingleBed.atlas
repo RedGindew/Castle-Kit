@@ -1,0 +1,15 @@
+MoarFurniture.BASICSingleBedRight
+loc 0 0 44 36
+piv 11 22
+
+MoarFurniture.BASICSingleBedDown
+loc 0 36 44 36
+piv 30 58
+
+MoarFurniture.BASICSingleBedLeft
+loc 0 72 44 36
+piv 7 83
+
+MoarFurniture.BASICSingleBedUp
+loc 0 108 44 36
+piv 36 119

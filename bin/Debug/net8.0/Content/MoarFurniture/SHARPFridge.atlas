@@ -1,0 +1,15 @@
+MoarFurniture.SHARPFridgeDown
+loc 0 0 20 42
+piv 7 38
+
+MoarFurniture.SHARPFridgeUp
+loc 0 42 20 42
+piv 12 75
+
+MoarFurniture.SHARPFridgeLeft
+loc 0 84 20 42
+piv 7 117
+
+MoarFurniture.SHARPFridgeRight
+loc 0 126 20 42
+piv 12 164

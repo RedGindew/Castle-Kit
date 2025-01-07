@@ -1,0 +1,31 @@
+MoarFurniture.BASICBathroomCounter
+loc 0 0 32 32
+piv 13 20
+
+MoarFurniture.BASICBathroomCounterRight
+loc 0 32 32 32
+piv 15 53
+
+MoarFurniture.BASICBathroomCounterLeft
+loc 0 64 32 32
+piv 13 85
+
+MoarFurniture.BASICBathroomCounterUp
+loc 0 96 32 32
+piv 15 117
+
+MoarFurniture.BASICBathroomCounterCornerDown
+loc 0 128 32 32
+piv 16 148
+
+MoarFurniture.BASICBathroomCounterCornerRight
+loc 0 160 32 32
+piv 14 181
+
+MoarFurniture.BASICBathroomCounterCornerLeft
+loc 0 192 32 32
+piv 13 213
+
+MoarFurniture.BASICBathroomCounterCornerUp
+loc 0 224 32 32
+piv 15 245

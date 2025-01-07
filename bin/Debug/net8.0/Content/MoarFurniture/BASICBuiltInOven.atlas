@@ -1,0 +1,15 @@
+MoarFurniture.BASICBuiltInOvenDown
+loc 0 0 27 28
+piv 14 7
+
+MoarFurniture.BASICBuiltInOvenRight
+loc 0 32 28 28
+piv 16 40
+
+MoarFurniture.BASICBuiltInOvenLeft
+loc 0 64 28 28
+piv 14 73
+
+MoarFurniture.BASICBuiltInOvenUp
+loc 0 96 28 28
+piv 16 104

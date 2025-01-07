@@ -1,0 +1,55 @@
+{
+    "BuildMode": {
+        "CastleKit.OldBookshelf": "The Fabled Books",
+        "CastleKit.OldBookshelfColors0": "Wood",
+        "CastleKit.OldBookshelfColors1": "Books",
+
+        "CastleKit.OldBookshelfLadder": "The Accessable Fabled Books",
+        "CastleKit.OldBookshelfLadderColors0": "Wood and Ladder",
+        "CastleKit.OldBookshelfLadderColors1": "Books",
+
+        "CastleKit.MedievalRug": "The Woven Tree Rug",
+
+        "CastleKit.MedievalTable": "The Long House Table",
+        "CastleKit.MedievalTableColors0": "Wood",
+
+        "CastleKit.MedievalStool": "Stool-Covered Stool",
+        "CastleKit.MedievalStoolColors0": "Wood",
+
+        "CastleKit.CastleWall": "Castle Wall",
+
+        "CastleKit.CatherinePainting": "Catherine of Tiny-gon",
+        "CastleKit.CatherinePaintingColors0": "Frame",
+
+        "CastleKit.HenryOfTiny": "Henry of Tiny",
+        "CastleKit.HenryOfTinyColors0": "Frame",
+
+        "CastleKit.StuartOfTiny": "Stuart of Tiny",
+        "CastleKit.StuartOfTinyColors0": "Frame",
+
+        "CastleKit.MedievalSideTable": "Side Table of Legend",
+        "CastleKit.MedievalSideTableColors0": "Wood",
+
+        "CastleKit.HangingBanner": "The House Banner",
+        "CastleKit.HangingBannerColors1": "Fabric",
+
+        "CastleKit.WarTable": "The Battle Station",
+        "CastleKit.WarTableColors0": "Table Base",
+
+        "CastleKit.GardenTile": "Step-Stones of Legend",
+        "CastleKit.GardenStone": "The Fellowship of Stones",
+        "CastleKit.CastleBrick": "Bricks of Castle Floors",
+
+        "CastleKit.FiringHole": "The Arrow Hole",
+        "CastleKit.BarredWindow": "The Barrier",
+        "CastleKit.NarrowWindow": "The Peep-Hole",
+        "CastleKit.WallPanel": "The Elegant Walling"
+    },
+    "Clothes": {
+        "CastleKit.MedievalCuffShirt": "Lordly Cuff Shirt",
+
+        "CastleKit.NoblemanHat": "Nobleman's Hat",
+
+        "CastleKit.MaidenDress": "Fair Maiden's Dress"
+    }
+}

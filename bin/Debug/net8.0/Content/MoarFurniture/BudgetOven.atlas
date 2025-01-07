@@ -1,0 +1,15 @@
+MoarFurniture.BudgetOvenRight
+loc 0 0 28 30
+piv 14 23
+
+MoarFurniture.BudgetOvenDown
+loc 0 30 28 30
+piv 14 52
+
+MoarFurniture.BudgetOvenLeft
+loc 0 60 28 30
+piv 12 80
+
+MoarFurniture.BudgetOvenUp
+loc 0 90 28 30
+piv 16 110

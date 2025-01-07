@@ -1,0 +1,15 @@
+MoarFurniture.TALMBookcaseLeft
+loc 0 0 18 41
+piv 6 32
+
+MoarFurniture.TALMBookcaseRight
+loc 0 41 18 41
+piv 12 77
+
+MoarFurniture.TALMBookcaseUp
+loc 0 82 18 41
+piv 11 115
+
+MoarFurniture.TALMBookcaseDown
+loc 0 123 18 41
+piv 5 159

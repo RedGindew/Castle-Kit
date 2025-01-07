@@ -1,0 +1,7 @@
+MoarFurniture.BASICDoorMatUp MoarFurniture.BASICDoorMatDown
+loc 0 0 20 13
+piv 10 6
+
+MoarFurniture.BASICDoorMatLeft MoarFurniture.BASICDoorMatRight
+loc 0 13 20 13
+piv 10 19

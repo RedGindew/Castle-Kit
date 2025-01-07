@@ -1,0 +1,15 @@
+MoarFurniture.BASICLoveSeatDown
+loc 0 0 38 31
+piv 12 16
+
+MoarFurniture.BASICLoveSeatRight
+loc 0 31 38 31
+piv 26 47
+
+MoarFurniture.BASICLoveSeatUp
+loc 0 62 38 31
+piv 12 78
+
+MoarFurniture.BASICLoveSeatLeft
+loc 0 93 38 31
+piv 26 109

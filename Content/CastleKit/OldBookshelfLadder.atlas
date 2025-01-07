@@ -1,0 +1,15 @@
+CastleKit.OldBookshelfLadderUp
+loc 0 0 34 64
+piv 17 54
+
+CastleKit.OldBookshelfLadderDown
+loc 0 64 34 64
+piv 17 118
+
+CastleKit.OldBookshelfLadderLeft
+loc 0 128 34 64
+piv 17 182
+
+CastleKit.OldBookshelfLadderRight
+loc 0 192 34 64
+piv 17 246

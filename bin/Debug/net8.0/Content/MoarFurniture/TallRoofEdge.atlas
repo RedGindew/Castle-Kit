@@ -1,0 +1,15 @@
+MoarFurniture.TallRoofEdgeUp
+loc 15 0 31 42
+piv 30 33
+
+MoarFurniture.TallRoofEdgeDown
+loc 0 42 32 43
+piv 16 76
+
+MoarFurniture.TallRoofEdgeLeft
+loc 0 86 33 49
+piv 16 126
+
+MoarFurniture.TallRoofEdgeRight
+loc 0 135 24 35
+piv 12 161

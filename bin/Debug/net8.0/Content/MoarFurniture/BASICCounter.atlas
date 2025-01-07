@@ -1,0 +1,31 @@
+MoarFurniture.BASICCounterDown
+loc 0 0 32 32
+piv 13 20
+
+MoarFurniture.BASICCounterRight
+loc 0 32 32 32
+piv 15 53
+
+MoarFurniture.BASICCounterLeft
+loc 0 64 32 32
+piv 13 85
+
+MoarFurniture.BASICCounterUp
+loc 0 96 32 32
+piv 15 117
+
+MoarFurniture.BASICCounterCornerDown
+loc 0 128 32 32
+piv 16 148
+
+MoarFurniture.BASICCounterCornerRight
+loc 0 160 32 32
+piv 14 181
+
+MoarFurniture.BASICCounterCornerLeft
+loc 0 192 32 32
+piv 13 213
+
+MoarFurniture.BASICCounterCornerUp
+loc 0 224 32 32
+piv 15 245

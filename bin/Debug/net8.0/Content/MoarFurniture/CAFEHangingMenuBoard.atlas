@@ -1,0 +1,15 @@
+MoarFurniture.CAFEHangingMenuBoardUp
+loc 0 0 30 41
+piv 14 31
+
+MoarFurniture.CAFEHangingMenuBoardDown
+loc 0 41 30 41
+piv 16 72
+
+MoarFurniture.CAFEHangingMenuBoardRight
+loc 0 81 30 41
+piv 14 113
+
+MoarFurniture.CAFEHangingMenuBoardLeft
+loc 0 123 30 41
+piv 16 154

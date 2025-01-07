@@ -1,0 +1,6 @@
+MoarFurniture.PalmTreeLightRight MoarFurniture.PalmTreeLightLeft
+loc 0 0 32 64
+piv 13 58
+MoarFurniture.PalmTreeLightUp MoarFurniture.PalmTreeLightDown
+loc 0 64 32 64
+piv 18 122

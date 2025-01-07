@@ -1,0 +1,6 @@
+MoarFurniture.WorkingWardrobeRight MoarFurniture.WorkingWardrobeLeft
+loc 0 0 38 42
+piv 27 26
+MoarFurniture.WorkingWardrobeUp MoarFurniture.WorkingWardrobeDown
+loc 0 42 38 42
+piv 11 68

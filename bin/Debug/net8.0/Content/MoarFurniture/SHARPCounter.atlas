@@ -1,0 +1,31 @@
+MoarFurniture.SHARPCounterDown
+loc 0 0 27 28
+piv 10 17
+
+MoarFurniture.SHARPCounterRight
+loc 0 0 28 28
+piv 10 17
+
+MoarFurniture.SHARPCounterLeft
+loc 0 0 28 28
+piv 10 17
+
+MoarFurniture.SHARPCounterUp
+loc 0 0 28 28
+piv 10 17
+
+MoarFurniture.SHARPCounterCornerDown
+loc 0 0 32 28
+piv 10 17
+
+MoarFurniture.SHARPCounterCornerRight
+loc 0 0 27 28
+piv 10 17
+
+MoarFurniture.SHARPCounterCornerLeft
+loc 0 0 27 28
+piv 10 17
+
+MoarFurniture.SHARPCounterCornerUp
+loc 0 0 30 28
+piv 10 17

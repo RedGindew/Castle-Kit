@@ -1,0 +1,15 @@
+MoarFurniture.BASICChairRight
+loc 0 0 18 23
+piv 8 18
+
+MoarFurniture.BASICChairDown
+loc 0 23 18 23
+piv 9 41
+
+MoarFurniture.BASICChairLeft
+loc 0 46 18 23
+piv 9 60
+
+MoarFurniture.BASICChairUp
+loc 0 69 18 23
+piv 8 83

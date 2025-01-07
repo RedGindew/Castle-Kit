@@ -1,0 +1,6 @@
+MoarFurniture.SimpleDeskUp MoarFurniture.SimpleDeskDown
+loc 0 0 36 30
+piv 8 15
+MoarFurniture.SimpleDeskLeft MoarFurniture.SimpleDeskRight
+loc 0 30 36 30
+piv 28 45

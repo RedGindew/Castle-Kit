@@ -1,0 +1,15 @@
+MoarFurniture.CAFECoffeeMachineUp
+loc 0 0 14 14
+piv 7 11
+
+MoarFurniture.CAFECoffeeMachineDown
+loc 0 14 14 15
+piv 7 25
+
+MoarFurniture.CAFECoffeeMachineLeft
+loc 0 29 14 14
+piv 7 40
+
+MoarFurniture.CAFECoffeeMachineRight
+loc 0 43 14 15
+piv 7 54

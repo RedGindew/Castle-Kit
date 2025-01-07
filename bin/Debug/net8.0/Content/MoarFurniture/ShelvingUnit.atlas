@@ -1,0 +1,14 @@
+MoarFurniture.ShelvingUnitRight
+loc 0 0 38 50
+piv 29 36
+MoarFurniture.ShelvingUnitDown
+loc 0 50 38 50
+piv 9 86
+
+MoarFurniture.ShelvingUnitLeft
+loc 0 100 38 50
+piv 25 134
+
+MoarFurniture.ShelvingUnitUp
+loc 0 150 38 50
+piv 13 184

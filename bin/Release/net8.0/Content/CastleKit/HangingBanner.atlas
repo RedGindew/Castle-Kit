@@ -1,0 +1,15 @@
+CastleKit.HangingBannerUp
+loc 0 0 30 41
+piv 14 31
+
+CastleKit.HangingBannerDown
+loc 0 41 30 41
+piv 13 81
+
+CastleKit.HangingBannerRight
+loc 0 81 30 41
+piv 16 122
+
+CastleKit.HangingBannerLeft
+loc 0 123 30 41
+piv 16 154

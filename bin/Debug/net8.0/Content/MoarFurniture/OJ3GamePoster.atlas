@@ -1,0 +1,15 @@
+MoarFurniture.OJ3GamePosterUp
+loc 0 0 30 41
+piv 14 31
+
+MoarFurniture.OJ3GamePosterDown
+loc 0 41 30 41
+piv 16 72
+
+MoarFurniture.OJ3GamePosterRight
+loc 0 82 30 41
+piv 14 113
+
+MoarFurniture.OJ3GamePosterLeft
+loc 0 123 30 41
+piv 16 154

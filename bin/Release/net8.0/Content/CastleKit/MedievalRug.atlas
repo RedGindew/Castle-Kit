@@ -1,0 +1,15 @@
+CastleKit.MedievalRugUp
+loc 0 0 98 51
+piv 56 6
+
+CastleKit.MedievalRugDown
+loc 0 51 98 51
+piv 56 57
+
+CastleKit.MedievalRugLeft
+loc 0 102 98 51
+piv 42 108
+
+CastleKit.MedievalRugRight
+loc 0 153 98 51
+piv 42 159

@@ -1,0 +1,15 @@
+MoarFurniture.TALMLargeDrawersRight
+loc 0 0 22 25
+piv 15 21
+
+MoarFurniture.TALMLargeDrawersDown
+loc 0 25 22 25
+piv 20 46
+
+MoarFurniture.TALMLargeDrawersLeft
+loc 0 50 22 25
+piv 8 67
+
+MoarFurniture.TALMLargeDrawersUp
+loc 0 75 22 25
+piv 14 92

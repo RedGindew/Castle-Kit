@@ -1,0 +1,15 @@
+MoarFurniture.TALMBedsideDrawersDown
+loc 0 0 16 20
+piv 8 14
+
+MoarFurniture.TALMBedsideDrawersRight
+loc 0 20 16 20
+piv 8 34
+
+MoarFurniture.TALMBedsideDrawersLeft
+loc 0 40 16 20
+piv 8 54
+
+MoarFurniture.TALMBedsideDrawersUp
+loc 0 60 16 20
+piv 8 74

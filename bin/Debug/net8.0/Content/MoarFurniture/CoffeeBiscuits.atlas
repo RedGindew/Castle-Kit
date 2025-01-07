@@ -1,0 +1,7 @@
+MoarFurniture.CoffeeBiscuitsUp
+loc 0 0 8 10
+piv 4 6
+
+MoarFurniture.CoffeeBiscuitsDown
+loc 0 10 8 10
+piv 4 16

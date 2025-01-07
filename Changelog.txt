@@ -1,0 +1,7 @@
+Additions:
+- Added Old Oak Tree
+- Added Crooked Tree
+- Added Cracked Gravestone
+
+Changes:
+- Mangled Roots now use Wood colours

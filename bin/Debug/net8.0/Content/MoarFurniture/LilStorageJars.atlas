@@ -1,0 +1,6 @@
+MoarFurniture.LilStorageJarsUp MoarFurniture.LilStorageJarsDown
+loc 0 0 12 10
+piv 6 6
+MoarFurniture.LilStorageJarsLeft MoarFurniture.LilStorageJarsRight
+loc 0 10 12 10
+piv 6 16

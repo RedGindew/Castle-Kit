@@ -1,0 +1,15 @@
+MoarFurniture.DecorCabinetRight
+loc 0 0 22 41
+piv 12 36
+
+MoarFurniture.DecorCabinetDown
+loc 0 41 22 41
+piv 10 77
+
+MoarFurniture.DecorCabinetLeft
+loc 0 82 22 42
+piv 8 117
+
+MoarFurniture.DecorCabinetUp
+loc 0 124 22 42
+piv 12 158

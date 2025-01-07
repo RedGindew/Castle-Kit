@@ -1,0 +1,91 @@
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\BasicDiningTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\BasicDiningTable.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Cobwebs.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Cobwebs.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Localization\en.json
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\PackOPumpkins.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\PackOPumpkins.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SmallPumpkin.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SmallPumpkin.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SpookyGarland.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SpookyGarland.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\UITex.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\SteamThumbnail.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\SpookyKit.deps.json
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\SpookyKit.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\SpookyKit.pdb
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\SpookyKit.csproj.AssemblyReference.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\SpookyKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\SpookyKit.AssemblyInfoInputs.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\SpookyKit.AssemblyInfo.cs
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\SpookyKit.csproj.CoreCompileInputs.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\SpookyKit.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\refint\SpookyKit.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\SpookyKit.pdb
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\obj\Release\net8.0\ref\SpookyKit.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SpookyCookies.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\FallLeaves.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\FallLeaves.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\BasicDiningTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\BasicDiningTable.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Cobwebs.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Cobwebs.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\FallLeaves.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\FallLeaves.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\PackOPumpkins.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\PackOPumpkins.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SmallPumpkin.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SmallPumpkin.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SpookyCookies.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SpookyGarland.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SpookyGarland.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\UITex.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\SteamThumbnail.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Barrel.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Barrel.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\BatBookcase.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\BatBookcase.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\CafeAwning.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\CafeAwning.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Localization\en.json
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\MangledRoots.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\MangledRoots.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\MarketCounter.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\MarketCounter.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SmallShroom.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\SmallShroom.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\StackBarrels.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\StackBarrels.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\SpookyKit.deps.json
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\SpookyKit.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\SpookyKit.pdb
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\SpookyKit.csproj.AssemblyReference.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\SpookyKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\SpookyKit.AssemblyInfoInputs.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\SpookyKit.AssemblyInfo.cs
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\SpookyKit.csproj.CoreCompileInputs.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\SpookyKit.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\refint\SpookyKit.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\SpookyKit.pdb
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\ref\SpookyKit.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\CrookedTree.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\CrookedTree.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Grave0.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Grave0.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\OldOak.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\OldOak.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\obj\Release\net8.0\SpookyKit.sourcelink.json
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Roof.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\Roof.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\RoofCorner.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\RoofCorner.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\RoofCap.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\RoofCap.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\TiledRoof.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\TiledRoofCap.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\TiledRoofCorner.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\TiledRoofCorner.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\TiledRoof.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\TiledRoofCap.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\RoofInner.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Misc. Mods\Spooky Kit\bin\Release\net8.0\Content\SpookyKit\RoofInner.png

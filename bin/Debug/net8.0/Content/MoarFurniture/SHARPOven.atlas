@@ -1,0 +1,15 @@
+MoarFurniture.SHARPOvenDown
+loc 0 0 28 27
+piv 12 20
+
+MoarFurniture.SHARPOvenRight
+loc 0 27 28 27
+piv 15 47
+
+MoarFurniture.SHARPOvenUp
+loc 0 54 28 27
+piv 12 74
+
+MoarFurniture.SHARPOvenLeft
+loc 0 81 28 27
+piv 15 101

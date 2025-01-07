@@ -1,0 +1,15 @@
+MoarFurniture.BASICShowerDown
+loc 0 0 28 46
+piv 14 38
+
+MoarFurniture.BASICShowerUp
+loc 0 46 28 46
+piv 14 84
+
+MoarFurniture.BASICShowerRight
+loc 0 92 28 46
+piv 14 130
+
+MoarFurniture.BASICShowerLeft
+loc 0 138 28 46
+piv 14 176

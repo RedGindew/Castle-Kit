@@ -1,0 +1,15 @@
+MoarFurniture.BASICMailboxLeft
+loc 0 0 16 32
+piv 9 29
+
+MoarFurniture.BASICMailboxRight
+loc 0 32 16 32
+piv 9 61
+
+MoarFurniture.BASICMailboxUp
+loc 0 64 16 32
+piv 7 93
+
+MoarFurniture.BASICMailboxDown
+loc 0 96 16 32
+piv 7 125

@@ -1,0 +1,162 @@
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.csproj.AssemblyReference.cache
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.AssemblyInfoInputs.cache
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.AssemblyInfo.cs
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.csproj.CoreCompileInputs.cache
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CleanTable.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Localization\en.json
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Wallpapers.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\SteamThumbnail.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\MoarFurniture.deps.json
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\MoarFurniture.dll
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\MoarFurniture.pdb
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.dll
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\refint\MoarFurniture.dll
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.pdb
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\obj\Release\net7.0\ref\MoarFurniture.dll
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\UiTextures.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeMachine.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeMachine.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideDrawers.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideDrawers.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideTable.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideTable.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMCoffeeTable.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMCoffeeTable.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMDiningTable.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMDiningTable.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\TALMBedsideTable.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawers.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawers.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawes.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeDecor.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeDecor.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CoffeeDecor.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Counter WIP.ase
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\MAWMoviePoster.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\MAWMoviePoster.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ2GamePoster.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ3GamePoster.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ4GamePoster.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJGamePoster.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\PlanetWarsPoster.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPFridge.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPFridge.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPOven.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPOven.png
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPKitchenSink.atlas
+C:\Users\redgi\Desktop\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPKitchenSink.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeDecor.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeDecor.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeMachine.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeMachine.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CoffeeDecor.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Counter WIP.ase
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Localization\en.json
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPFridge.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPFridge.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPKitchenSink.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPKitchenSink.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPOven.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPOven.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideDrawers.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideDrawers.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideTable.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMCoffeeTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMCoffeeTable.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMDiningTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMDiningTable.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawers.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawers.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawes.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\UiTextures.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Wallpapers.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\TALMBedsideTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\SteamThumbnail.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\MoarFurniture.deps.json
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\MoarFurniture.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\MoarFurniture.pdb
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.csproj.AssemblyReference.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.AssemblyInfoInputs.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.AssemblyInfo.cs
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.csproj.CoreCompileInputs.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\refint\MoarFurniture.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\MoarFurniture.pdb
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\obj\Release\net7.0\ref\MoarFurniture.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\MAWMoviePoster BACKUP.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\MAWSMoviePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\MAWSMoviePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ2GamePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ2GamePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ3GamePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ3GamePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ4GamePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ4GamePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJGamePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJGamePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\BASICMailbox.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\BASICMailbox.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPCounter.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPCounter.png
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBookcase.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\Moar Furniture\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBookcase.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\BASICMailbox.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\BASICMailbox.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeDecor.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeDecor.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeMachine.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CAFECoffeeMachine.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\CoffeeDecor.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Counter WIP.ase
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Localization\en.json
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\MAWMoviePoster BACKUP.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\MAWSMoviePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\MAWSMoviePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ2GamePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ2GamePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ3GamePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ3GamePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ4GamePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJ4GamePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJGamePoster.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\OJGamePoster.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPCounter.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPCounter.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPFridge.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPFridge.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPKitchenSink.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPKitchenSink.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPOven.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\SHARPOven.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideDrawers.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideDrawers.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBedsideTable.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBookcase.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMBookcase.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMCoffeeTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMCoffeeTable.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMDiningTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMDiningTable.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawers.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawers.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\TALMLargeDrawes.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\Wallpapers.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\TALMBedsideTable.atlas
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\SteamThumbnail.png
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\MoarFurniture.deps.json
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\MoarFurniture.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\MoarFurniture.pdb
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\MoarFurniture.csproj.AssemblyReference.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\MoarFurniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\MoarFurniture.AssemblyInfoInputs.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\MoarFurniture.AssemblyInfo.cs
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\MoarFurniture.csproj.CoreCompileInputs.cache
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\MoarFurniture.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\refint\MoarFurniture.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\MoarFurniture.pdb
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\obj\Release\net7.0\ref\MoarFurniture.dll
+C:\Users\redgi\Desktop\Tiny Life Modding\MoarFurniture\bin\Release\net7.0\Content\MoarFurniture\UITex.png

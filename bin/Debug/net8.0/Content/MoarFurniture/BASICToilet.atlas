@@ -1,0 +1,15 @@
+MoarFurniture.BASICToiletUp
+loc 0 0 30 41
+piv 14 31
+
+MoarFurniture.BASICToiletDown
+loc 0 41 30 41
+piv 16 72
+
+MoarFurniture.BASICToiletRight
+loc 0 81 30 41
+piv 14 113
+
+MoarFurniture.BASICToiletLeft
+loc 0 123 30 41
+piv 16 154

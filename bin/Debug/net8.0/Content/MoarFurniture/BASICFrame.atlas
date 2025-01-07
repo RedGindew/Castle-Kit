@@ -1,0 +1,15 @@
+MoarFurniture.BASICFrameUp
+loc 0 0 30 41
+piv 14 31
+
+MoarFurniture.BASICFrameDown
+loc 0 41 30 41
+piv 16 72
+
+MoarFurniture.BASICFrameRight
+loc 0 81 30 41
+piv 14 113
+
+MoarFurniture.BASICFrameLeft
+loc 0 123 30 41
+piv 16 154

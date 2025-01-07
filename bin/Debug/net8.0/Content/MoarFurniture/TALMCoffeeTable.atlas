@@ -1,0 +1,7 @@
+MoarFurniture.TALMCoffeeTableLeft MoarFurniture.TALMCoffeeTableRight
+loc 0 0 24 20
+piv 12 12
+
+MoarFurniture.TALMCoffeeTableUp MoarFurniture.TALMCoffeeTableDown
+loc 0 20 24 20
+piv 12 31

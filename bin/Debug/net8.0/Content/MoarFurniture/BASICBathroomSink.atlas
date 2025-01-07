@@ -1,0 +1,15 @@
+MoarFurniture.BASICBathroomSinkUp
+loc 0 0 30 41
+piv 14 33
+
+MoarFurniture.BASICBathroomSinkDown
+loc 0 41 30 41
+piv 16 72
+
+MoarFurniture.BASICBathroomSinkRight
+loc 0 81 30 41
+piv 14 113
+
+MoarFurniture.BASICBathroomSinkLeft
+loc 0 123 30 41
+piv 16 154

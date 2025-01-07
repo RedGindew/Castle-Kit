@@ -1,0 +1,15 @@
+MoarFurniture.MAWSMoviePosterUp
+loc 0 0 30 41
+piv 14 31
+
+MoarFurniture.MAWSMoviePosterDown
+loc 0 41 30 41
+piv 16 72
+
+MoarFurniture.MAWSMoviePosterRight
+loc 0 82 30 41
+piv 14 113
+
+MoarFurniture.MAWSMoviePosterLeft
+loc 0 123 30 41
+piv 16 154
