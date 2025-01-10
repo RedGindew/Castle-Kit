@@ -1,4 +1,5 @@
-# Tiny Life Example Mod
-An example mod for my game Tiny Life. Use this template repository to create your own mod!
+# Medieval Living for Tiny Life
 
-To learn how to use the example mod repository and create your own mods, check out the [Modding Basics](https://docs.tinylifegame.com/articles/mod_basics.html) documentation.
+Have you dreamed of living in a simpler time? Want your Evil to feel more… Medi? Good News!
+Decorate your home… or Castle, with a bunch of new furnishings and paintings!
+Dress the part with a classic Ruff! As well as a beautiful new dress for the M’Lady in your lives.
