@@ -1,10 +1,17 @@
+#addin nuget:?package=Cake.Incubator&version=8.0.0
+
 using System.Diagnostics;
 using System.Linq;
 using System.Threading;
 
 var target = Argument("target", "Run");
 var config = Argument("configuration", "Release");
+var userArgs = Argument("args", "");
+var projectFile = Argument("project", GetFiles("**/*.csproj").FirstOrDefault());
 
+var project = ParseProject(projectFile, config);
+var outputPath = project.OutputPaths.FirstOrDefault();
+var zipOutputPath = $"{outputPath.GetParent()}/{project.AssemblyName}.zip";
 var tinyLifeDir = $"{Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData)}/Tiny Life";
 
 Task("Clean").Does(() => {
@@ -12,26 +19,34 @@ Task("Clean").Does(() => {
     EnsureDirectoryDoesNotExist($"{tinyLifeDir}/Mods/_Dev");
 });
 
-Task("Build").DoesForEach(GetFiles("**/*.csproj"), p => {
-    DotNetBuild(p.FullPath, new DotNetBuildSettings {
+Task("Build").Does(() => {
+    DotNetBuild(projectFile.FullPath, new DotNetBuildSettings {
         Configuration = config
     });
 });
 
-Task("CopyToMods").IsDependentOn("Build").Does(() => {
+Task("Zip").IsDependentOn("Build").Does(() => {
+    Zip(outputPath, zipOutputPath, GetFiles($"{outputPath}/**/*"));
+    Information($"Created zip archive {zipOutputPath}");
+});
+
+Task("CopyToMods").IsDependentOn("Zip").Does(() => {
     var dir = $"{tinyLifeDir}/Mods/_Dev";
     EnsureDirectoryExists(dir);
-    var files = GetFiles($"bin/{config}/net*/**/*");
-    CopyFiles(files, dir, true);
+    CopyFileToDirectory(zipOutputPath, dir);
 });
 
 Task("Run").IsDependentOn("CopyToMods").Does(() => {
     // start the tiny life process
     var exeDir = System.IO.File.ReadAllText($"{tinyLifeDir}/GameDir");
     var process = Process.Start(new ProcessStartInfo($"{exeDir}/Tiny Life") {
-        Arguments = "-v --skip-splash --skip-preloads --debug-saves --ansi",
-        CreateNoWindow = true
+        Arguments = $"-v --skip-splash --skip-preloads --debug-saves --ansi {userArgs}",
+        RedirectStandardOutput = true,
+        RedirectStandardError = true
     });
+    // make sure the output buffers (which we ignore) don't fill up
+    process.BeginOutputReadLine();
+    process.BeginErrorReadLine();
 
     // we wait a bit to make sure the process has generated a new log file
     Thread.Sleep(1000);
@@ -44,12 +59,12 @@ Task("Run").IsDependentOn("CopyToMods").Does(() => {
             using (var reader = new StreamReader(stream)) {
                 var lastPos = 0L;
                 do {
-                    if (reader.BaseStream.Length > lastPos) {
-                        reader.BaseStream.Seek(lastPos, SeekOrigin.Begin);
+                    if (stream.Length > lastPos) {
+                        stream.Seek(lastPos, SeekOrigin.Begin);
                         string line;
                         while ((line = reader.ReadLine()) != null)
                             Information(line);
-                        lastPos = reader.BaseStream.Position;
+                        lastPos = stream.Position;
                     }
                     Thread.Sleep(10);
                 } while (!process.HasExited);
@@ -58,16 +73,6 @@ Task("Run").IsDependentOn("CopyToMods").Does(() => {
     }
 
     Information($"Tiny Life exited with exit code {process.ExitCode}");
-});
-
-Task("Publish").IsDependentOn("Build").DoesForEach(() => GetDirectories($"bin/{config}/net*"), d => {
-    var dllFile = GetFiles($"{d}/**/*.dll").FirstOrDefault();
-    if (dllFile == null)
-        throw new Exception($"Couldn't find built mod in {d}");
-    var dllName = System.IO.Path.GetFileNameWithoutExtension(dllFile.ToString());
-    var zipLoc = $"{d.GetParent()}/{dllName}.zip";
-    Zip(d, zipLoc, GetFiles($"{d}/**/*"));
-    Information($"Published {dllName} to {zipLoc}");
 });
 
 RunTarget(target);

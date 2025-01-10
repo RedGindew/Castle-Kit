@@ -31,30 +31,30 @@ public class CastleKit : Mod
     public static Logger Logger { get; private set; }
 
     public override string Name => "Medieval Living Kit";
-    public override string Description => "Furnish your Medieval Homes! - v1.0";
+    public override string Description => "Furnish your Medieval Homes!";
+    public override TextureRegion Icon => this.uiTextures[new Point(0, 0)];
     public override string IssueTrackerUrl => "https://x.com/RedGindew";
-    public override string TestedVersionRange => "[0.45.0]";
+    public override string TestedVersionRange => "[0.46.0]";
+
     private Dictionary<Point, TextureRegion> uiTextures, Floor, FenceTex;
     private Dictionary<Point, TextureRegion> cuffShirt, nobleHat, maidenDress;
     private Dictionary<Point, TextureRegion> windows, wallpaper;
-    public override TextureRegion Icon => this.uiTextures[new Point(0, 0)];
 
 
     public override void Initialize(Logger logger, RawContentManager content, RuntimeTexturePacker texturePacker, ModInfo info)
     {
         CastleKit.Logger = logger;
-        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("UITex"), 8, 8), r => this.uiTextures = r, 1, true);
-        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("Tiles"), 6, 4), r => this.Floor = r, 1, true);
-        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("Fences"), 11, 4), r => this.FenceTex = r, 1, true);
-        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("Windows"), 16, 5), r => this.windows = r, 1, true);
-        WallMode.ApplyMasks(content.Load<Texture2D>("Wallpapers"), 4, 5, texturePacker, r => this.wallpaper = r);
-        //texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("Openings"), 16, 5), r => this.openings = r, 1, true);
+        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("UiTextures"), 8, 8), r => this.uiTextures = r, 1, true, true);
+        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("Tiles"), 6, 4), r => this.Floor = r, 1, true, true);
+        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("Fences"), 11, 4), r => this.FenceTex = r, 1, true, true);
+        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("Windows"), 16, 5), r => this.windows = r, 1, true, true);
 
-        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("CuffShirt"), 8, 11), r => this.cuffShirt = r, 1, true);
+        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("CuffShirt"), 8, 11), r => this.cuffShirt = r, 1, true, true);
 
-        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("MaidenDress"), 4, 6), r => this.maidenDress = r, 1, true);
+        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("MaidenDress"), 4, 6), r => this.maidenDress = r, 1, true, true);
 
-        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("NobleHat"), 4, 5), r => this.nobleHat = r, 1, true);
+        texturePacker.Add(new UniformTextureAtlas(content.Load<Texture2D>("NobleHat"), 4, 5), r => this.nobleHat = r, 1, true, true);
+        texturePacker.Add(WallMode.ApplyMasks(content.Load<Texture2D>("Wallpapers"), 4, 5), r => this.wallpaper = r, 1, true, true);
     }
 
     public override void AddGameContent(GameImpl game, ModInfo info)
